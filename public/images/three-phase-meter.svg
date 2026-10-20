@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="300" viewBox="0 0 320 300" fill="none">
+  <rect x="42" y="12" width="236" height="270" rx="22" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/>
+  <rect x="55" y="25" width="210" height="244" rx="16" fill="#fff" stroke="#E2E8F0"/>
+  <path d="M71 25h178a16 16 0 0 1 16 16v12H55V41a16 16 0 0 1 16-16Z" fill="#1E40AF"/>
+  <circle cx="160" cy="41" r="3.5" fill="#93C5FD"/>
+  <text x="160" y="70" text-anchor="middle" fill="#64748B" font-family="Arial,sans-serif" font-size="9" letter-spacing="2">THREE PHASE · DEMO CONCEPT</text>
+  <rect x="90" y="82" width="140" height="58" rx="8" fill="#EAF2E8" stroke="#C9D7C2"/>
+  <text x="160" y="101" text-anchor="middle" fill="#365846" font-family="monospace" font-size="9">TOTAL ENERGY (kWh)</text>
+  <text x="160" y="125" text-anchor="middle" fill="#1E3A2B" font-family="monospace" font-size="21" font-weight="700">00076.42</text>
+  <circle cx="245" cy="110" r="5" fill="#F59E0B"/>
+  <text x="160" y="157" text-anchor="middle" fill="#94A3B8" font-family="Arial,sans-serif" font-size="8">L1 · L2 · L3</text>
+  <g fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1.2">
+    <rect x="88" y="168" width="43" height="25" rx="7"/><rect x="138.5" y="168" width="43" height="25" rx="7"/><rect x="189" y="168" width="43" height="25" rx="7"/>
+    <rect x="88" y="201" width="43" height="25" rx="7"/><rect x="138.5" y="201" width="43" height="25" rx="7"/><rect x="189" y="201" width="43" height="25" rx="7"/>
+    <rect x="88" y="234" width="43" height="25" rx="7"/><rect x="138.5" y="234" width="43" height="25" rx="7"/><rect x="189" y="234" width="43" height="25" rx="7"/>
+  </g>
+  <g fill="#475569" font-family="Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle"><text x="109.5" y="185">1</text><text x="160" y="185">2</text><text x="210.5" y="185">3</text><text x="109.5" y="218">4</text><text x="160" y="218">5</text><text x="210.5" y="218">6</text><text x="109.5" y="251">7</text><text x="160" y="251">8</text><text x="210.5" y="251">9</text></g>
+  <path d="M120 283v6m80-6v6" stroke="#94A3B8" stroke-width="3" stroke-linecap="round"/>
+</svg>

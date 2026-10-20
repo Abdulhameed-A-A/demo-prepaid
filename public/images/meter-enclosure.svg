@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="240" viewBox="0 0 280 240" fill="none">
+  <path d="M54 32c0-7 5-12 12-12h148c7 0 12 5 12 12v175c0 7-5 12-12 12H66c-7 0-12-5-12-12V32Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/>
+  <path d="M70 37c0-4 3-7 7-7h126c4 0 7 3 7 7v157c0 4-3 7-7 7H77c-4 0-7-3-7-7V37Z" fill="#fff" stroke="#E2E8F0"/>
+  <rect x="83" y="48" width="114" height="11" rx="5.5" fill="#E2E8F0"/>
+  <rect x="88" y="76" width="104" height="62" rx="9" fill="#F8FAFC" stroke="#D7E0EA"/>
+  <rect x="98" y="85" width="84" height="44" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-dasharray="3 3"/>
+  <text x="140" y="104" text-anchor="middle" fill="#64748B" font-family="Arial,sans-serif" font-size="8">LCD WINDOW</text>
+  <text x="140" y="118" text-anchor="middle" fill="#94A3B8" font-family="Arial,sans-serif" font-size="7">transparent lens</text>
+  <rect x="101" y="151" width="78" height="26" rx="7" fill="#F8FAFC" stroke="#D7E0EA" stroke-dasharray="3 3"/>
+  <text x="140" y="167" text-anchor="middle" fill="#64748B" font-family="Arial,sans-serif" font-size="8">keypad recess</text>
+  <path d="M75 206h130" stroke="#E2E8F0" stroke-width="2"/>
+  <circle cx="66" cy="39" r="2.4" fill="#94A3B8"/><circle cx="214" cy="39" r="2.4" fill="#94A3B8"/>
+</svg>

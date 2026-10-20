@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="280" viewBox="0 0 260 280" fill="none">
+  <rect x="45" y="12" width="170" height="250" rx="20" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/>
+  <rect x="58" y="25" width="144" height="224" rx="14" fill="#fff" stroke="#E2E8F0"/>
+  <path d="M72 25h116a14 14 0 0 1 14 14v9H58v-9a14 14 0 0 1 14-14Z" fill="#1E40AF"/>
+  <circle cx="130" cy="39" r="3" fill="#93C5FD"/>
+  <text x="130" y="59" text-anchor="middle" fill="#64748B" font-family="Arial,sans-serif" font-size="6" letter-spacing="1">SINGLE PHASE · DEMO CONCEPT</text>
+  <rect x="78" y="66" width="104" height="51" rx="7" fill="#EAF2E8" stroke="#C9D7C2"/>
+  <text x="130" y="87" text-anchor="middle" fill="#365846" font-family="monospace" font-size="10">PREPAID ENERGY</text>
+  <text x="130" y="105" text-anchor="middle" fill="#1E3A2B" font-family="monospace" font-size="17" font-weight="700">00038.4</text>
+  <circle cx="130" cy="134" r="5" fill="#F59E0B"/>
+  <circle cx="145" cy="134" r="3" fill="#CBD5E1"/>
+  <circle cx="115" cy="134" r="3" fill="#CBD5E1"/>
+  <g fill="#F1F5F9" stroke="#CBD5E1">
+    <rect x="78" y="151" width="27" height="19" rx="5"/><rect x="116.5" y="151" width="27" height="19" rx="5"/><rect x="155" y="151" width="27" height="19" rx="5"/>
+    <rect x="78" y="178" width="27" height="19" rx="5"/><rect x="116.5" y="178" width="27" height="19" rx="5"/><rect x="155" y="178" width="27" height="19" rx="5"/>
+    <rect x="78" y="205" width="27" height="19" rx="5"/><rect x="116.5" y="205" width="27" height="19" rx="5"/><rect x="155" y="205" width="27" height="19" rx="5"/>
+  </g>
+  <g fill="#475569" font-family="Arial" font-size="9" font-weight="600" text-anchor="middle"><text x="91.5" y="164">1</text><text x="130" y="164">2</text><text x="168.5" y="164">3</text><text x="91.5" y="191">4</text><text x="130" y="191">5</text><text x="168.5" y="191">6</text><text x="91.5" y="218">7</text><text x="130" y="218">8</text><text x="168.5" y="218">9</text></g>
+  <path d="M105 263v8m50-8v8" stroke="#94A3B8" stroke-width="3" stroke-linecap="round"/>
+</svg>
